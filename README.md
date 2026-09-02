@@ -1,5 +1,7 @@
 # MWM-Net: Multi-level Wavelet–Mamba Network for Remote Sensing Spatiotemporal Fusion
 
+## Requirements
+- This code is written for `python3.10`.
 
 
 ## Acknowledgment
