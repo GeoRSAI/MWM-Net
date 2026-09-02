@@ -1,8 +1,10 @@
 # MWM-Net: Multi-level Wavelet–Mamba Network for Remote Sensing Spatiotemporal Fusion
 
 ## Requirements
-- This code is written for `python3.10`.
-
+- This code is written for `python3.12`.
+- PyTorch  2.8.0
+- CUDA  12.8
+	
 
 ## Acknowledgment
 This code is heavily borrowed from [SAFMN](https://github.com/sunny2109/SAFMN), [FusionMamba](https://github.com/millieXie/FusionMamba) and [ECPW-STFN](https://github.com/lixinghua5540/ECPW-STFN)
