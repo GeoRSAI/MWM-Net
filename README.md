@@ -2,8 +2,8 @@
 
 ## Requirements
 - This code is written for `python3.12`.
-- PyTorch  2.8.0
-- CUDA  12.8
+- `PyTorch  2.8.0`
+- `CUDA  12.8`
 	
 
 ## Acknowledgment
